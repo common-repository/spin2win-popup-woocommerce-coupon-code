@@ -1,0 +1,31 @@
+/**
+ * Spin2Win Admin style
+**/
+#spin2win-admin {
+    margin-top: 25px;
+}
+#spin2win-admin ul li{
+    display: inline;
+/*    padding: 10px;*/
+/*    background: #e5e5e5;*/
+    /*border: 1px solid #dcdcdc;*/
+}
+
+#spin2win-admin ul li.ui-tabs-active.ui-state-active a{
+    background:#fff;
+    color: #000;
+}
+#spin2win-admin ul li a{
+    text-decoration: none;
+    padding: 0 8px;
+}
+
+#spin2win-admin table p {
+    font-size: 10px;
+    font-weight: normal;
+}
+
+#spin2win-admin #tabs{
+    width: 49%;
+    float: left;
+}
